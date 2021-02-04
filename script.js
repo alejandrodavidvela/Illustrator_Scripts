@@ -2,6 +2,7 @@
 // https://www.youtube.com/watch?v=EGdgrP7azUQ
 // https://www.adobe.com/content/dam/acom/en/devnet/illustrator/pdf/Illustrator_JavaScript_Scripting_Reference_2017.pdf
 // https://www.w3schools.com/jsref/met_win_prompt.asp
+// https://illustrator-scripting-guide.readthedocs.io/scriptingJavascript/creatingPathsShapes/
 
 // Set active document and rename background layer
 var myDocument = app.activeDocument
